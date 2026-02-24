@@ -1,0 +1,68 @@
+[15-Sep-2025 21:23:06 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ujjalfmc/public_html/all.ujjalfm.com/includes/functions.php:332) in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 50
+[15-Sep-2025 21:23:06 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ujjalfmc/public_html/all.ujjalfm.com/includes/functions.php:332) in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 51
+[15-Sep-2025 21:23:06 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ujjalfmc/public_html/all.ujjalfm.com/includes/functions.php:332) in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 52
+[15-Sep-2025 21:23:40 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ujjalfmc/public_html/all.ujjalfm.com/includes/functions.php:332) in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 50
+[15-Sep-2025 21:23:40 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ujjalfmc/public_html/all.ujjalfm.com/includes/functions.php:332) in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 51
+[15-Sep-2025 21:23:40 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ujjalfmc/public_html/all.ujjalfm.com/includes/functions.php:332) in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 52
+[03-Oct-2025 06:08:07 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[03-Oct-2025 06:08:11 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[03-Oct-2025 22:43:36 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[03-Oct-2025 22:43:40 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[03-Oct-2025 22:43:41 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[03-Oct-2025 22:48:16 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[03-Oct-2025 23:18:37 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[03-Oct-2025 23:18:40 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[04-Oct-2025 01:08:31 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[04-Oct-2025 01:08:31 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[04-Oct-2025 01:08:32 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[04-Oct-2025 01:08:32 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[04-Oct-2025 01:08:33 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[04-Oct-2025 01:08:34 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[04-Oct-2025 01:08:34 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[04-Oct-2025 01:08:35 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[04-Oct-2025 01:08:35 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[04-Oct-2025 01:54:55 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[04-Oct-2025 01:54:56 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[04-Oct-2025 01:54:56 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[04-Oct-2025 01:54:58 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[04-Oct-2025 03:11:50 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[04-Oct-2025 03:11:52 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[04-Oct-2025 03:11:52 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[04-Oct-2025 03:11:52 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[04-Oct-2025 03:11:52 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[04-Oct-2025 03:11:53 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[04-Oct-2025 03:11:53 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[04-Oct-2025 03:11:53 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[04-Oct-2025 03:11:53 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[04-Oct-2025 03:11:53 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[04-Oct-2025 03:11:53 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[04-Oct-2025 03:11:54 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[04-Oct-2025 16:12:53 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[04-Oct-2025 16:12:56 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[04-Oct-2025 19:14:11 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[04-Oct-2025 19:15:49 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[05-Oct-2025 01:45:28 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[05-Oct-2025 01:45:32 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[05-Oct-2025 09:24:18 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[05-Oct-2025 09:24:21 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[05-Oct-2025 12:11:22 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[05-Oct-2025 12:11:24 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[05-Oct-2025 12:11:30 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[05-Oct-2025 12:11:30 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[05-Oct-2025 12:11:30 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[05-Oct-2025 12:11:30 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[05-Oct-2025 18:57:39 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[05-Oct-2025 18:57:43 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[05-Oct-2025 19:41:23 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[05-Oct-2025 19:41:24 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[05-Oct-2025 19:41:25 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[05-Oct-2025 19:41:25 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[06-Oct-2025 04:00:15 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[06-Oct-2025 19:22:17 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[06-Oct-2025 19:22:19 Asia/Dhaka] PHP Warning:  Constant CURRENCY_SYMBOL already defined in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 36
+[05-Nov-2025 08:00:50 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php80/sess_c800523e8630944d35bf15d56d2b1e9b, O_RDWR) failed: Disk quota exceeded (122) in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 8
+[05-Nov-2025 08:00:50 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php80) in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 8
+[05-Nov-2025 08:00:50 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php80/sess_b4049c90e71e31f317d5c9316fb83837, O_RDWR) failed: Disk quota exceeded (122) in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 8
+[05-Nov-2025 08:00:50 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php80) in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 8
+[05-Nov-2025 08:00:50 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php80/sess_3fbbc8fb36719e6ffa9d8629722d90e6, O_RDWR) failed: Disk quota exceeded (122) in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 8
+[05-Nov-2025 08:00:50 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php80) in /home/ujjalfmc/public_html/all.ujjalfm.com/config/config.php on line 8

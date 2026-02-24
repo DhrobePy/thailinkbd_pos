@@ -411,8 +411,8 @@ APP_DEBUG=true
 - Video Tutorials: Available on request
 
 ### Technical Support
-- Email: support@thailinkbd.com
-- Phone: +880-2-123456789
+- Email: dhrobedb@gmail.com
+- Phone: +880-1912071977
 - Business Hours: 9 AM - 6 PM (GMT+6)
 
 ### Community
@@ -426,7 +426,7 @@ This software is proprietary and licensed for use by Thai Link BD. Unauthorized 
 
 ## 🏆 Credits
 
-**Developed by**: Manus AI  
+**Developed by**: Dhrobe Islam
 **Version**: 1.0.0  
 **Release Date**: 2024  
 **Framework**: Pure PHP with MySQL  

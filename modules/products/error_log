@@ -1,0 +1,30 @@
+[16-Sep-2025 22:25:22 Asia/Dhaka] PHP Warning:  Undefined variable $db in /home/ujjalfmc/public_html/all.ujjalfm.com/modules/products/add.php on line 108
+[16-Sep-2025 22:25:22 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ujjalfmc/public_html/all.ujjalfm.com/modules/products/add.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/ujjalfmc/public_html/all.ujjalfm.com/modules/products/add.php on line 108
+[16-Sep-2025 22:26:49 Asia/Dhaka] PHP Warning:  Undefined variable $db in /home/ujjalfmc/public_html/all.ujjalfm.com/modules/products/add.php on line 108
+[16-Sep-2025 22:26:49 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ujjalfmc/public_html/all.ujjalfm.com/modules/products/add.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/ujjalfmc/public_html/all.ujjalfm.com/modules/products/add.php on line 108
+[16-Sep-2025 22:33:12 Asia/Dhaka] PHP Warning:  Undefined variable $db in /home/ujjalfmc/public_html/all.ujjalfm.com/modules/products/add.php on line 108
+[16-Sep-2025 22:33:12 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ujjalfmc/public_html/all.ujjalfm.com/modules/products/add.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/ujjalfmc/public_html/all.ujjalfm.com/modules/products/add.php on line 108
+[16-Sep-2025 22:33:22 Asia/Dhaka] PHP Warning:  Undefined variable $db in /home/ujjalfmc/public_html/all.ujjalfm.com/modules/products/add.php on line 108
+[16-Sep-2025 22:33:22 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ujjalfmc/public_html/all.ujjalfm.com/modules/products/add.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/ujjalfmc/public_html/all.ujjalfm.com/modules/products/add.php on line 108
+[16-Sep-2025 22:33:37 Asia/Dhaka] PHP Warning:  Undefined variable $db in /home/ujjalfmc/public_html/all.ujjalfm.com/modules/products/add.php on line 108
+[16-Sep-2025 22:33:37 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ujjalfmc/public_html/all.ujjalfm.com/modules/products/add.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/ujjalfmc/public_html/all.ujjalfm.com/modules/products/add.php on line 108
+[16-Sep-2025 22:53:26 Asia/Dhaka] PHP Warning:  Undefined variable $db in /home/ujjalfmc/public_html/all.ujjalfm.com/modules/products/add.php on line 108
+[16-Sep-2025 22:53:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ujjalfmc/public_html/all.ujjalfm.com/modules/products/add.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/ujjalfmc/public_html/all.ujjalfm.com/modules/products/add.php on line 108
